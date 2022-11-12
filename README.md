@@ -1,1 +1,1 @@
-# amofoss-tasks
+# Amfoss tasks
