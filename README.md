@@ -17,5 +17,5 @@
 [Task-11](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2011)| Figma Ninja|Not Attempted
 [Task-12](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2012)|Bunny Heist|Not Done
 [Task-13](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2013)|Footfall Counter|Completed
-[Task-14](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2014)|Bandit|Completed
+[Task-14](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2014)|Bandit|Completed from 0 to 10
 [Task-15](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-15)|Project Euler|Completed 3&5
