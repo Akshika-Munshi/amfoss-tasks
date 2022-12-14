@@ -1,1 +1,2 @@
-
+# TINKER CAD AND ARDUINO 
+I was very excited when our seniors at Amrita , came to our class to introduce us to the robotics club and i even thought of joining this club , but later realized this this is not exactly my cup of tea , but i anyways ended up attending their workshop , which later helped me in solving this task . I solved this using Scratch and loved Wworking with the interractive GUI after using CLI for all this while.
