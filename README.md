@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # AKSHIKA MUNSHI
-**Fresher at Amrita School of Engineering(ELC 2022)**
+**Most Curious Fresher at Amrita School of Engineering(ELC 2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%200)|Installing Ubuntu|Completed
