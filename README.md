@@ -13,7 +13,7 @@
 [Task-07](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%207)|Go WASM|Not Completed
 [Task-08](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%208)|Internet Explorer|Completed
 [Task-09](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%209)|Krypto Scrapper |Not attempted
-[Task-10](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2010)|CS50|Done first 2
+[Task-10](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2010)|CS50|Done 1st one CS50IDLE
 [Task-11](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2011)| Figma Ninja|Not Attempted
 [Task-12](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2012)|Bunny Heist|Not Done
 [Task-13](https://github.com/Akshika-Munshi/amfoss-tasks/tree/main/Task%2013)|Footfall Counter|Completed
