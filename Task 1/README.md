@@ -1,0 +1,1 @@
+This is the first task that i did. Being new to Git , this task took me longer than expected and installing some of the commands through terminal were dificult since there were some issues with my device . But later , after searching the web and seeking guidance , i was able to complete it . 
